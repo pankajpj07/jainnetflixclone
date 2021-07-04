@@ -3,6 +3,7 @@
 }
 
 .row_posters {
+  position: relative;
   display: flex;
   overflow-y: hidden;
   overflow-x: scroll;
